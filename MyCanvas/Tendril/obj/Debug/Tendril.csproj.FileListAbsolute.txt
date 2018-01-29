@@ -1,0 +1,13 @@
+d:\documents\visual studio 2012\Projects\MyCanvas\Tendril\bin\Debug\Tendril.exe.config
+d:\documents\visual studio 2012\Projects\MyCanvas\Tendril\obj\Debug\Tendril.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\MyCanvas\Tendril\obj\Debug\MainWindow.baml
+d:\documents\visual studio 2012\Projects\MyCanvas\Tendril\obj\Debug\MainWindow.g.cs
+d:\documents\visual studio 2012\Projects\MyCanvas\Tendril\obj\Debug\App.g.cs
+d:\documents\visual studio 2012\Projects\MyCanvas\Tendril\obj\Debug\Tendril_MarkupCompile.cache
+d:\documents\visual studio 2012\Projects\MyCanvas\Tendril\obj\Debug\Tendril.g.resources
+d:\documents\visual studio 2012\Projects\MyCanvas\Tendril\obj\Debug\Tendril.Properties.Resources.resources
+d:\documents\visual studio 2012\Projects\MyCanvas\Tendril\obj\Debug\Tendril.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\MyCanvas\Tendril\bin\Debug\Tendril.exe
+d:\documents\visual studio 2012\Projects\MyCanvas\Tendril\bin\Debug\Tendril.pdb
+d:\documents\visual studio 2012\Projects\MyCanvas\Tendril\obj\Debug\Tendril.exe
+d:\documents\visual studio 2012\Projects\MyCanvas\Tendril\obj\Debug\Tendril.pdb

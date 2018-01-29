@@ -1,0 +1,28 @@
+﻿<Window x:Class="Tendril.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Tendril" Height="700" Width="950">
+    <Canvas x:Name="sceneCanvas" Background="Black" Margin="-2,0,2,0" Loaded="InitScene" MouseMove="HandleMouseMove">
+        <Ellipse Fill="#FFE66902" Width="20" Height="20" x:Name="ballEllipse" Canvas.Left="466" Canvas.Top="100"></Ellipse>
+        <Path Stroke="Red" x:Name="path" StrokeThickness="1">
+            <Path.Data>
+                <PathGeometry>
+                    <PathGeometry.Figures>
+                        <PathFigureCollection x:Name="PFC">
+                             <!--
+                            <PathFigure StartPoint="0,0">
+                                <PathFigure.Segments>
+                                    <PathSegmentCollection>
+                                        <PolyQuadraticBezierSegment Points="100,0 100,100 100,200 200,200 300,200 300,100" />
+                                    </PathSegmentCollection>
+                                </PathFigure.Segments>
+                            </PathFigure>
+                            -->
+                            
+                        </PathFigureCollection>
+                    </PathGeometry.Figures>
+                </PathGeometry>
+            </Path.Data>
+        </Path>
+    </Canvas>
+</Window>
